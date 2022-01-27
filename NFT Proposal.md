@@ -6,12 +6,12 @@
 
 
 #### This proposal will divide the project into 3 subprojects.
-- Project Planning and Documentation (Onboarding).
+- [Project Planning and Documentation (Onboarding)](#1-project-planning-and-documentation)
 - NFT minting site for the NFT drop (Priority).
 - Booking web app that connects to the Ethereum blockchain and checks for NFT ownership.
 
 ---
-## 1- Project Planning and Documentation.
+## 1 Project Planning and Documentation
 During this phase:
 - Structuring and creating the board to keep you updated with the development process.
 - General research on the different tools I'll be needing and getting any extra software I might need.
