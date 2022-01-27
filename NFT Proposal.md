@@ -2,7 +2,7 @@
 
 | Project Title |  Developing Company  | Blockchain |  Smart contract Standard  |
 |---------------|:--------------------:|------------|:-------------------------:|
-| Crasqui NFT   |       Astratek       |Ethereum|          ERC721           |  
+| LUXE VISIT NFT   |       ASTRATEK       |ETHEREUM|          ERC721           |  
 
 
 #### This proposal will divide the project into 3 subprojects.
