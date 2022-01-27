@@ -1,4 +1,4 @@
-# Official Proposal for NFT Membership Project
+# Official Proposal for LUXE VISIT NFT Project
 
 | Project Title |  Developing Company  | Blockchain |  Smart contract Standard  |
 |---------------|:--------------------:|------------|:-------------------------:|
