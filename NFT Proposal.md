@@ -6,12 +6,15 @@
 
 
 #### This proposal will divide the project into 3 subprojects.
-- [Project Planning and Documentation (Onboarding)](#1-project-planning-and-documentation)
-- NFT minting site for the NFT drop (Priority).
-- Booking web app that connects to the Ethereum blockchain and checks for NFT ownership.
+- [Project Planning and Documentation (Onboarding)](#phase-1-project-planning-and-documentation)
+- [NFT minting site for the NFT drop (Priority)](#phase-2-nft-minting-project)
+- [Booking web app that connects to the Ethereum blockchain and checks for NFT ownership](#phase-3-booking-web-app)
+- [Pricing](#pricing)
+- [Conclusion](#conclusion)
+- [Lets Begin](https://invoice.stripe.com/i/acct_1JBm3NK2qqZnxQ4Z/live_YWNjdF8xSkJtM05LMnFxWm54UTRaLF9MMlM4c1JCQTdSTk5waDhlVHRNNEhvYnlYWW5WMVh3LDMzNzkxNTY50200EoA6Cbr1?s=db)
 
 ---
-## 1 Project Planning and Documentation
+## Phase 1 Project Planning and Documentation
 During this phase:
 - Structuring and creating the board to keep you updated with the development process.
 - General research on the different tools I'll be needing and getting any extra software I might need.
@@ -20,7 +23,7 @@ During this phase:
 
 **Timeframe**: _4 days_
 
-## 2- NFT minting project
+## Phase 2 NFT minting project
 This project will be focused mainly on the creating of an ERC721 smart contract.
 This stage requires the most attention since mistakes can be expensive. 
 The creation of a front page for the NFT drop will also be handled on this period.
@@ -57,7 +60,7 @@ The creation of a front page for the NFT drop will also be handled on this perio
 
 ---
 
-## 3- Booking web app
+## Phase 3 Booking web app
 During this phase, the main booking web application will be created.
 
 **Characteristics of the web app**
